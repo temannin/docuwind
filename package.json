@@ -1,0 +1,24 @@
+{
+  "name": "docuwind",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temannin/docuwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temannin/docuwind/issues"
+  },
+  "homepage": "https://github.com/temannin/docuwind#readme",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  },
+  "type": "module"
+}
